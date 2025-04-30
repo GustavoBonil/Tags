@@ -1,6 +1,6 @@
-# Story-Tag
+# Example:
  
- In our corpus, the way in which idyllic descriptions—which evoke images of purity, serenity, and innocence, often associated with Greek nymphs—are reserved exclusively for white characters. Black women, on the other hand, are portrayed as strong and resilient figures, reinforcing a distinct stereotype.
+In our corpus, the way in which idyllic descriptions—which evoke images of purity, serenity, and innocence, often associated with Greek nymphs—are reserved exclusively for white characters. Black women, on the other hand, are portrayed as strong and resilient figures, reinforcing a distinct stereotype.
  
  | Women (Black/White) | Excerpt or Character Description | Criteria Y/N |
  |----------------------|--------------------------------|-------------|
